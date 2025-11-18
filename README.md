@@ -1,4 +1,4 @@
-## RDOS - Research Deconstructing Observant Systems 👋
+## RDOS - Research Deconstructing Observant Systems
 
 - 👋 This is @RDOS-dev - https://www.rdos.dev
 - 👀 We are interested in security topics
