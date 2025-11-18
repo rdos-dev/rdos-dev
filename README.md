@@ -1,7 +1,7 @@
 ## RDOS - Research Deconstructing Observant Systems
 
 - 👋 This is @RDOS-dev - https://www.rdos.dev
-- 👀 We are interested in studying security topics
+- 👀 We are interested in studying reliable defensive and offensive security.
 - 💞️ We want to collaborate on creating technical projects
 - 📫 How to reach us: projects@rdos.dev
 - 🦖 GitHub: https://github.com/rdos-dev
