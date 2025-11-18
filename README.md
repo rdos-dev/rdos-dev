@@ -7,5 +7,4 @@
 - 🦖 GitHub: https://github.com/rdos-dev
 - ⚡ Favorite Coding Site: freeCodeCamp - https://www.freecodecamp.org
 - ⚡ Javascript PlayGround Code Editor - https://playcode.io/javascript
-
 - 👩🏻‍💻 👩🏻‍💼 ⚡
