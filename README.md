@@ -3,7 +3,7 @@
 - 👋 This is @RDOS-dev - https://www.rdos.dev
 - 👀 We are interested in studying security topics
 - 💞️ We want to collaborate on creating technical projects
-- 📫 How to reach us: git@rdos.dev
+- 📫 How to reach us: projects@rdos.dev
 - 🦖 GitHub: https://github.com/rdos-dev
 - ⚡ Favorite Coding Site: freeCodeCamp - https://www.freecodecamp.org
 - ⚡ Javascript PlayGround Code Editor - https://playcode.io/javascript
